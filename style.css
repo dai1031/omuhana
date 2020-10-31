@@ -22,9 +22,11 @@ header {
     background-color:rgba(155, 171, 172, 0.5);
     width: 100%;
     height: 80px;
+    
     position: fixed;
     z-index: 20;
     display: flex;
+
     
 }
 
